@@ -8,3 +8,10 @@ J2EE
 Servlets
 JSP
 MySQL
+
+Dependencies
+Java
+J2EE
+Servlets
+JSP
+MySQL
