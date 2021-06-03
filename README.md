@@ -1,6 +1,6 @@
 # HR-Web-Application-StyleTwo-
 
-This application is used to manage the records of employees and designations in a firm or an organization, by performing all the CRUD operations.
+This application is used to manage the records of employees and designations in a firm or an organization, by performing all the CRUD operations.(styleTwo)
 
 Technologies Used: 
 Java
@@ -9,9 +9,4 @@ Servlets
 JSP
 MySQL
 
-Dependencies
-Java
-J2EE
-Servlets
-JSP
-MySQL
+
