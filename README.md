@@ -3,7 +3,7 @@
 This application is used to manage the records of employees and designations in a firm or an organization, by performing all the CRUD operations.(styleTwo)
 
 
-Installation
+#Installation: 
 Either fork or download the application.
 Put this application folder in tomcat/webapps folder
 Compile the code before running it
